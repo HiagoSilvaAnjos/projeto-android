@@ -77,7 +77,7 @@ header > p {
     padding-bottom: 50px;
     padding-right: 10px;
     padding-left: 10px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.363);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.363);
     font-family: var(--fonte-padão);
     color: white;
     font-size: 1.2em;
