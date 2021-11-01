@@ -6,10 +6,10 @@
 
 <p align="center">Esse projeto...</p>
 <p align="center">
-<a href="#Autor"><strong>Autor</strong></a> -
 <a href="#Sobre"><strong>Sobre</strong></a> -   
 <a href="#Tecnologias"><strong>Tecnologias</strong></a> -
-<a href="#Site"><strong>Site</strong></a> 
+<a href="#Site"><strong>Site</strong></a> -
+<a href="#Autor"><strong>Autor</strong></a> 
 </p>
 
 
@@ -45,10 +45,9 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 - [x] Estilo
 - [x] Vídeo
 - [x] Responsivo
-
 <br>
 
-# Autor✏️
+# Autor
 <strong>Hiago da Silva dos Anjos</strong>
 <br>
 <a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**Linkedin✔️**</a>
