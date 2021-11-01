@@ -51,8 +51,8 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 # Autor✏️
 <strong>Hiago da Silva dos Anjos</strong>
 <br>
-<a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**Linkedin✔️**</a>
+<a href="https://www.linkedin.com/in/hiago-silva-119711224/"target="_blank">**Linkedin✔️**</a>
 <br>
-<a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**You Tube✔️**</a>
+<a href="https://www.youtube.com/channel/UCvRycARgeBvXL3hM8svA_Mw"target="_blank">**You Tube✔️**</a>
 <br>
-<a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**Instagram✔️**</a>
+<a href=""target="_blank">**Instagram✔️**</a>
