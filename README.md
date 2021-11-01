@@ -47,7 +47,7 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 - [x] Responsivo
 <br>
 
-# Autor
+# Autor✏️
 <strong>Hiago da Silva dos Anjos</strong>
 <br>
 <a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**Linkedin✔️**</a>
