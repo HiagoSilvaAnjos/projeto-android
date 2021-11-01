@@ -6,10 +6,10 @@
 
 <p align="center">Esse projeto...</p>
 <p align="center">
+<a href="#Autor"><strong>Autor</strong></a> -
 <a href="#Sobre"><strong>Sobre</strong></a> -   
 <a href="#Tecnologias"><strong>Tecnologias</strong></a> -
-<a href="#Site"><strong>Site</strong></a> -
-<a href="#Autor✏️"><strong>Autor</strong></a> 
+<a href="#Site"><strong>Site</strong></a> 
 </p>
 
 
