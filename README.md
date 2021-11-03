@@ -19,8 +19,6 @@
 
 <br>
 
-<h1 align="center">🚧EM CONSTRUÇÃO!🚧</h1>
-
 # Sobre🤔
 <p>
 Oi, tudo bem? Este projeto foi criado durante o meu curso de <strong>HTML</strong> e <strong>CSS</strong>, ele conta a história de como surgiu o mascote dos celulares da linha <strong>android</strong>, suas primeiras versões e curiosidades.
@@ -29,6 +27,8 @@ Oi, tudo bem? Este projeto foi criado durante o meu curso de <strong>HTML</stron
 Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><strong>clicando aqui🌐</strong></a>
 </p>
 <br>
+
+
 
 # Tecnologias💻
 <p>
