@@ -24,7 +24,7 @@
 
 # Sobre🤔
 <p>
-Oi, tudo bem? Este projeto foi criado durante o meu curso de <strong>HTML</strong> e <strong>CSS</strong>, ele conta a história de como surgiu o mascote dos celulares da linha <strong>android</strong>, suas primeiras versões e curiosidades.
+Oi, tudo bem? Este projeto foi criado durante o meu curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Video, ele conta a história de como surgiu o mascote do sistema operacional dos celulares da linha <strong>android</strong> , sua autora, suas primeiras versões e curiosidades.
 </p>
 <p>
 Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><strong>clicando aqui🌐</strong></a>
