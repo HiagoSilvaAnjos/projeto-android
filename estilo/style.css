@@ -98,7 +98,9 @@ nav > a {
     text-decoration: none;
     padding: 10px 15px 10px 15px;
     font-weight: bold;
+    margin-left: 25px;
 }
+
 
 nav > a:hover {
     color: rgb(213, 213, 226);
@@ -243,3 +245,22 @@ footer a:hover {
 }
 
 
+@media screen and (max-width: 400px) {
+    nav > a {
+        color: rgb(151, 147, 147);
+        text-decoration: none;
+        padding: 10px 15px 10px 15px;
+        font-weight: bold;
+        margin-left: 15px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    nav > a {
+        color: rgb(151, 147, 147);
+        text-decoration: none;
+        padding: 10px 20px 10px 20px;
+        font-weight: bold;
+        margin-left: 1px;
+    } 
+}
