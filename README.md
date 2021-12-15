@@ -22,7 +22,8 @@
 
 <br>
 
-# Sobre🤔
+<h1 id="Sobre">Sobre🤔</h1>
+
 <p>
 Oi, tudo bem? Este projeto foi criado durante o meu curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Video, ele conta a história de como surgiu o mascote do sistema operacional dos celulares da linha <strong>android</strong> , sua autora, suas primeiras versões e curiosidades.
 </p>
@@ -35,7 +36,7 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 
 <br>
 
-# Tecnologias 💻
+<h1 id="Tecnologias">Tecnologias 💻</h1>
 <p>
 <strong>HTML5✔️</strong>
 </p>
@@ -45,7 +46,7 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 <br>
 <br>
 
-# Site 🌐
+<h1 id="Site">Site 🌐</h1>
 - [x] Conteudo
 - [x] Images
 - [x] Estilo
@@ -55,7 +56,7 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 <br>
 <br>
 
-# Autor 🤓    
+<h1 id="Autor">Autor 🤓</h1>    
 <strong>Hiago da Silva dos Anjos</strong>
 
 <a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank">**Linkedin✔️**</a>
