@@ -47,6 +47,7 @@ Veja este projeto <a href="https://hiagosilvaanjos.github.io/projeto-android/"><
 <br>
 
 <h1 id="Site">Site 🌐</h1>
+
 - [x] Conteudo
 - [x] Images
 - [x] Estilo
